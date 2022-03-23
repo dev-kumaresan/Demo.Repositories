@@ -16,11 +16,13 @@
 <a href="https://dev-kumaresan.github.io/render-check-DOM-JS/" target="_blank"><b><font><p>_click here_</p></font></b></a>
 </td>
 </tr>
-</table>
-3. Portfolio sample
+ <td>
+ 3. Portfolio sample
 <td>
 <td>
 <a href="https://dev-kumaresan.github.io/portfolio/" target="_blank"><b><font><p>_click here_</p></font></b></a>
 </td>
 </tr>
 </table>
+
+
